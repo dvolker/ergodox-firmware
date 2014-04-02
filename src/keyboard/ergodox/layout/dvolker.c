@@ -100,8 +100,8 @@ KB_MATRIX_LAYER(
 	// right hand
 	KEY_F12,	KEY_F6,	KEY_F7,	KEY_F8,	KEY_F9,	KEY_F10,	0,	
 	0,	KEY_1_Exclamation,	KEYPAD_EqualSign,	0x31,	KEY_7_Ampersand,	KEY_GraveAccent_Tilde,	0,	
-	0x2F,	KEY_LeftBracket_LeftBrace,	KEYPAD_LeftParenthesis,	KEYPAD_RightParenthesis,	KEY_RightBracket_RightBrace,	0x30,	
-	1,	0,	KEYPAD_Minus,	KEYPAD_Plus,	KEYPAD_Asterisk,	KEY_Backslash_Pipe,	0,	
+	0x2F,	KEY_LeftBracket_LeftBrace,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_RightBracket_RightBrace,	0x30,	
+	1,	KEY_Dash_Underscore,	KEYPAD_Minus,	KEYPAD_Plus,	KEYPAD_Asterisk,	KEY_Backslash_Pipe,	0,	
 	0,	0,	0,	0,	3,	
 	0,	0,	
 	0,	0,	0,	
