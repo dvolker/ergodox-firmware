@@ -90,9 +90,9 @@ KB_MATRIX_LAYER(
 	0,	
 	// left hand
 	0,	KEY_F1,	KEY_F2,	KEY_F3,	KEY_F4,	KEY_F5,	KEY_F11,	
-	0,	KEY_F6,	KEY_F7,	KEY_F8,	0,	0,	1,	
+	0,	KEY_F6,	KEY_F7,	KEY_3_Pound,	KEY_4_Dollar,	KEY_F8,	1,	
 	0,	KEY_F9,	KEY_F10,	KEY_F11,	KEY_Escape,	0,	
-	0,	KEY_F12,	KEY_F13,	KEY_F14,	0,	0,	1,	
+	0,	KEY_F12,	KEY_F13,	KEY_F14,	KEY_,	0,	1,	
 	0,	0,	0,	0,	0,	
 	0,	0,	
 	0,	0,	0,	
@@ -325,7 +325,7 @@ KB_MATRIX_LAYER(
 	NULL,	
 	// left hand
 	ktrans,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
-	ktrans,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	lpop1,	
+	ktrans,	kprrel,	kprrel,	sshprre,	sshprre,	kprrel,	lpop1,	
 	ktrans,	kprrel,	kprrel,	kprrel,	kprrel,	NULL,	
 	ktrans,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	lpush1,	
 	ktrans,	ktrans,	ktrans,	ktrans,	ktrans,	
@@ -560,7 +560,7 @@ KB_MATRIX_LAYER(
 	NULL,	
 	// left hand
 	ktrans,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
-	ktrans,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	NULL,	
+	ktrans,	kprrel,	kprrel,	sshprre,	sshprre,	kprrel,	NULL,	
 	ktrans,	kprrel,	kprrel,	kprrel,	kprrel,	NULL,	
 	ktrans,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	lpop1,	
 	ktrans,	ktrans,	ktrans,	ktrans,	ktrans,	
